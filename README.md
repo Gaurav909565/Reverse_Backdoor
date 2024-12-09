@@ -24,15 +24,15 @@ This repository contains Python scripts for a basic backdoor and listener.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Gaurav909565/Reverse_Backdoor_and_listener.git
    ```
 
 2. **Navigate to the repository:**
    ```bash
-   cd <repository_name>
+   cd Reverse_Backdoor_and_listener/
    ```
 
-3. **Compile the Backdoor script (using PyInstaller):**
+3. ****Compile the Backdoor script (using PyInstaller):** (OPTIONAL)**
    ```bash
    pyinstaller --onefile Backdoor.py 
    ```
